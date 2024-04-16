@@ -1,7 +1,7 @@
 					Technical Documentation 
 Creating S3 Buckets:
 •	Create one S3 bucket and inside it create a folder and after that create two files in it and insert the data files that we are having with us.
- 
+ ![](SNAP1.png)
 Creating an IAM Role: 
 •	After getting the data into the buckets the next thing we should do is to define an IAM role and should attach policies to it.
 •	But instead of creating a new IAM Role I have used the old one which I have used for my previous task.
